@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOfBit", "BankOfBit\BankOfBit.csproj", "{3292E078-3765-4166-821E-31824C3C6099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "..\..\Documents\Visual Studio 2010\Projects\Utility\Utility\Utility.csproj", "{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3292E078-3765-4166-821E-31824C3C6099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3292E078-3765-4166-821E-31824C3C6099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3292E078-3765-4166-821E-31824C3C6099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3292E078-3765-4166-821E-31824C3C6099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFB919A-6DD3-4F37-A1C4-5DA42400C74D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
