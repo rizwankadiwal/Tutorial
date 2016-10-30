@@ -1,0 +1,106 @@
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\BankOfBit.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\BankOfBit.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Antlr3.Runtime.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.AspNet.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.Core.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Microsoft.Web.Infrastructure.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.Formatting.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.WebRequest.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Helpers.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Http.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Http.WebHost.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Mvc.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Optimization.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Razor.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.Deployment.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.Razor.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\WebGrease.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\WebMatrix.Data.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\WebMatrix.WebData.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.Formatting.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Net.Http.WebRequest.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Helpers.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Http.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Http.WebHost.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Mvc.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.Razor.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.Deployment.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\System.Web.WebPages.Razor.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\WebMatrix.Data.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\WebMatrix.WebData.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.AspNet.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.Core.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\obj\Debug\BankOfBit.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\obj\Debug\BankOfBit.dll
+c:\users\administrator\documents\visual studio 2010\Projects\BankOfBit\BankOfBit\obj\Debug\BankOfBit.pdb
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\BankOfBit.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\BankOfBit.pdb
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.Core.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\EntityFramework.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Http.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\WebMatrix.Data.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\WebMatrix.WebData.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\EntityFramework.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Http.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\WebMatrix.Data.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\WebMatrix.WebData.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.Core.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\obj\Debug\BankOfBit.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\obj\Debug\BankOfBit.dll
+C:\Users\Administrator\Desktop\BankOfBit\BankOfBit\obj\Debug\BankOfBit.pdb
